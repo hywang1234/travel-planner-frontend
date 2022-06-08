@@ -1,1 +1,3 @@
-# travelplanner-frontend
+# Getting Started
+
+This is the Travel Planner.
