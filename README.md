@@ -1,3 +1,3 @@
 # Getting Started
 
-This is the Travel Planner.
+This is the Travel PlanDIFFERENCEner.
