@@ -100,7 +100,7 @@ export const GoogleMapDemo = () => {
         p={4}
         borderRadius='lg'
         m={4}
-        bgColor='yellow'
+        bgColor='green'
         shadow='base'
         minW='container.md'
         zIndex='1'
