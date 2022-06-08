@@ -39,7 +39,6 @@ export const GoogleMapDemo = () => {
   const destinationRef = useRef()
 
   if (!isLoaded) {
-
     return <SkeletonText />
   }
 
